@@ -2,7 +2,7 @@
 ## Karen vs Manager YouTube Search
 
 ### Choosing the topic
-My topic is on Karens and managers/customer service, specifically the differences in how people view Karens and managers on YouTube. Karens are usually people who treat workers or anyone in the public badly and their overall entitled attitude gets them into trouble. For the [Karen search results](/assets/karen.csv), I used the parameters: "karen", "rude", "public freakout". For the manager search results, I used the parameters: "manager", "defend", "employee", "customer service".
+My topic is on Karens and managers/customer service, specifically the differences in how people view Karens and managers on YouTube. Karens are usually people who treat workers or anyone in the public badly and their overall entitled attitude gets them into trouble. For the [Karen search results](/assets/karen.csv), I used the parameters: "karen", "rude", "public freakout". For the [Manager search results](/assets/manager.csv), I used the parameters: "manager", "defend", "employee", "customer service".
 
 I wanted to compare Karens and managers because there are usually only negative things talked about Karens online. Still, I was wondering if there are some similarities between managers since I think there are more diverse views on managers that could make the search result more nuanced.
 
