@@ -10,7 +10,7 @@ I wanted to compare Karens and managers because there are usually only negative 
 ![Karen word cloud](/img/Karen.png)
 ![Manager word cloud](/img/Manager.png)
 
-One obvious difference I noticed between the 2 word clouds is that Karen has a lot more negative words, and Manager has many more positive and neutral terms. A small similarity I noticed was that there were some similar terms used probably for clickbait and more viewer engagement which I removed some of the terms since it didn't seem to fit into the word cloud. I think the reason for the patterns I observed was that for the Karen search terms, I used words that would produce negative results, which made the word cloud for Karens more negative. Whereas for Manager, I used search terms that were more neutral and a bit positive which resulted in a word cloud that had more professional words in it.
+One obvious difference I noticed between the 2 word clouds is that Karen has a lot more negative words, and Manager has many more positive and neutral terms. A small similarity I noticed was that there were some similar terms used probably for clickbait and more viewer engagement which I removed some of the terms since it didn't seem to fit into the word cloud. I think the reason for the patterns I observed was that for the Karen search terms, I used words that would produce negative results, which made the word cloud for Karens more negative. Whereas for Manager, I used search terms that were more neutral and a bit positive which resulted in a word cloud that had more professional and positive words in it.
 
 ### Conclusion
 
